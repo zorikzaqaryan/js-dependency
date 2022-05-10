@@ -1,0 +1,34 @@
+{
+  "name": "angular-image-crop",
+  "description": "An AngularJS Image Crop directive",
+  "version": "v0.0.1",
+  "homepage": "https://github.com/tranchitam/angular-image-crop",
+  "license": "MIT",
+  "main": "dist/angular-image-crop.min.js",
+  "dependencies": {
+    "angular": "1.2.x",
+    "jquery": "^2.2.1",
+    "jquery-mousewheel": "^3.1.13"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "authors": [
+    "tranchitam <tranchitams3201@gmail.com>"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "angular image crop",
+    "image crop",
+    "angular",
+    "image"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "examples/bower_components",
+    "test",
+    "tests"
+  ]
+}

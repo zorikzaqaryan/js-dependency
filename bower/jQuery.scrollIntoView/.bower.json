@@ -1,0 +1,19 @@
+{
+  "name": "jQuery.scrollIntoView",
+  "authors": [
+    "Arwid Bancewicz <arwid@arwid.ca"
+  ],
+  "main": "jquery.scrollIntoView.min.js",
+  "homepage": "https://github.com/Arwid/jQuery.scrollIntoView",
+  "description": "jQuery plugin to smoothly scroll elements into view.",
+  "license": "MIT",
+  "_release": "7902d123ea",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7902d123eae7ef8c60249defb17c7422ec4f31d5"
+  },
+  "_source": "https://github.com/zorikzaqaryan/jQuery.scrollIntoView.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/zorikzaqaryan/jQuery.scrollIntoView.git"
+}

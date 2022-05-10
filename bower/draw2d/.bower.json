@@ -1,0 +1,30 @@
+{
+  "name": "draw2d",
+  "main": [
+    "dist/patched_canvg.js",
+    "dist/patched_Class.js",
+    "dist/patched_raphael.js",
+    "dist/draw2d.js",
+    "dist/jquery.autoresize.js",
+    "dist/jquery.contextmenu.js",
+    "dist/jquery-touch_punch.js",
+    "dist/json2.js",
+    "dist/pathfinding-browser.min.js",
+    "dist/rgbcolor.js",
+    "dist/StackBlur.js"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "jquery": "~1.10.2"
+  },
+  "homepage": "https://github.com/zorikzaqaryan/draw2d",
+  "_release": "588731cc8d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "588731cc8d3123712c813227a6806c45652b2856"
+  },
+  "_source": "https://github.com/zorikzaqaryan/draw2d.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/zorikzaqaryan/draw2d.git"
+}

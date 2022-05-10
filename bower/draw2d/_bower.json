@@ -1,0 +1,32 @@
+{
+  "name": "draw2d",
+  "version": "5.6.5",
+  "main": [
+    "dist/jquery.autoresize.js",
+    "dist/jquery.contextmenu.js",
+    "dist/jquery-touch_punch.js",
+    "dist/json2.js",
+    "dist/patched_canvg.js",
+    "dist/patched_Class.js",
+    "dist/patched_raphael.js",
+    "dist/pathfinding-browser.min.js",
+    "dist/rgbcolor.js",
+    "dist/StackBlur.js",
+    "dist/draw2d.js"
+    
+  ],
+  "ignore": [],
+  "dependencies": {
+    "jquery": "~1.10.2"
+  },
+  "homepage": "https://github.com/freegroup/draw2d_js.bower",
+  "_release": "5.6.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "5.6.5",
+    "commit": "f65104aeaf58f4ae25bab3a49ea33c9f59f5ffa9"
+  },
+  "_source": "https://github.com/freegroup/draw2d_js.bower.git",
+  "_target": "5.6.5",
+  "_originalSource": "draw2d"
+}
